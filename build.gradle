@@ -17,8 +17,8 @@ bintray {
         }
 
         licenses = []
-        vcsUrl = 'https://github.com/hathibelagal/LibraryTutorial.git'
-        websiteUrl = 'https://github.com/hathibelagal/LibraryTutorial'
+        vcsUrl = 'https://github.com/henriquekano/cardhashmaker.git'
+        websiteUrl = 'https://github.com/henriquekano/cardhashmaker'
     }
     configurations = ['archives']
 }
